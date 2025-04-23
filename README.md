@@ -1,8 +1,12 @@
 # Software Requirements Specification
-## For <project name>
+## For Student Club Management System with Budget and Venue Integration
 
 Version 0.1  
-Prepared by <author>  
+Prepared by   
+Teow Wei Ting  
+Eng Zi Ying  
+See Jie Sheng  
+Sua Wei Khong  
 <organization>  
 <date created>  
 
